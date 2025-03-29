@@ -2,6 +2,12 @@ from langchain_huggingface import HuggingFaceEndpoint,ChatHuggingFace
 from dotenv import load_dotenv
 from typing import TypedDict
 
+"""
+-since huggingface model is not giving structured output this code won't work.
+- when you change the model to open ai or any model that is Able to generate syructure output 
+- this code will work at that tieme
+"""
+
 load_dotenv()
 
 llm = HuggingFaceEndpoint(
