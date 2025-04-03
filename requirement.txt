@@ -3,6 +3,8 @@
 langchain
 langchain-core
 langchain-community
+#for drawing  graphs
+grandalf   
 
 # OpenAI Integration
 langchain-openai
