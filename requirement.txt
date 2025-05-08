@@ -32,6 +32,8 @@ scikit-learn
 # for tokenisation 
 sentencepiece
 
+#pdf loader
+pypdf-5.4.0
 
 #UI 
 streamlit
