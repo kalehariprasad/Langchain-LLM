@@ -4,6 +4,7 @@ langchain
 langchain-core
 langchain-experimental
 langchain-community
+langchain-chroma
 #for drawing  graphs
 grandalf   
 
@@ -38,3 +39,6 @@ pypdf-5.4.0
 
 #UI 
 streamlit
+
+#CPU
+faiss-cpu
