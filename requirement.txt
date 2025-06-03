@@ -31,6 +31,9 @@ python-dotenv
 numpy
 scikit-learn
 
+#retriver
+wikipedia
+
 # for tokenisation 
 sentencepiece
 
